@@ -46,11 +46,17 @@ Create a new table for the Expected GPA.
 Expected Cumulative grade point average in the graduation (4.00): (1: <2.00, 2: 2.00-2.49, 3: 2.50-2.99, 4: 3.00-3.49, 5: above 3.49)
 
 Then perform a merge and select the correct columns:
+
 ![6](https://user-images.githubusercontent.com/55467236/234656364-99894f46-6b6b-4ee2-8110-d1423e3e60c8.jpg)
 
 
 Filter the newly inserted column to display the GPA Range:
+
 ![7](https://user-images.githubusercontent.com/55467236/234656434-21cedc3d-27b2-4010-9e97-deeb31c3ee86.jpg)
 
 
 The GPA Range data is brought into the main table without changing the initial column values.
+
+Use the transformed data to do visualization on what you'd like to analyze.
+![image](https://user-images.githubusercontent.com/55467236/234656847-1b22fd76-d8a3-4a2b-a8cc-48e4ecd2779c.png)
+
