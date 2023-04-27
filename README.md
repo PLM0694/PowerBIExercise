@@ -3,7 +3,7 @@
 
 See raw dataset at: https://www.kaggle.com/datasets/csafrit2/higher-education-students-performance-evaluation
 
-The purpose of this project is to practice transforming a dataset with PowerBI. It is not intended to analyze the data with an intentional assessment. Rather, this project focuses on performing simple exercises and understanding the concepts around it in order to transform the dataset.
+The purpose of this project is to practice transforming a dataset with PowerBI. It is not intended to analyze the data with an intentional assessment and outcome. Rather, this project focuses on performing simple exercises and understanding the concepts around it in order to transform the dataset.
 
 Snippet of the raw data
 
@@ -34,6 +34,7 @@ After changing to the correct data type, use the Replace Values function to repl
 
 **Goal 2**: Create Fact Dimensional Model and Relationships
 A table may reference another table, and the tables are associated by a foreign key. I created new tables to practice this concept using the attribute information.
+
 *Attribute Information:*
 Scholarship type: (1: None, 2: 25%, 3: 50%, 4: 75%, 5: Full)
 
@@ -42,6 +43,7 @@ Scholarship type: (1: None, 2: 25%, 3: 50%, 4: 75%, 5: Full)
 Associate the relationships in the Model View.
 
 ![5](https://user-images.githubusercontent.com/55467236/234655874-44b5a4a8-e1e1-4859-b407-4b104fa8d13f.jpg)
+
 
 
 
